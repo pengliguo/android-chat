@@ -49,8 +49,8 @@ public class AppService implements AppServiceProvider {
      * <br>
      * <br>
      */
-    public static String "http://39.106.33.196:8888"/*请仔细阅读上面的注释*/ = "http://wildfirechat.net:8888";
-//    public static String APP_SERVER_ADDRESS/*请仔细阅读上面的注释*/ = "https://app.wildfirechat.net";
+    public static String APP_SERVER_ADDRESS/*请仔细阅读上面的注释*/ = "http://39.106.33.196:8888";
+//    public static String /*请仔细阅读上面的注释*/ = "https://app.wildfirechat.net";
 
     private AppService() {
 
